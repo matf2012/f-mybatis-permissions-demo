@@ -17,7 +17,7 @@
 
     <properties>
         <google.guava.version>18.0</google.guava.version>
-        <fastjson.version>1.2.4</fastjson.version>
+        <fastjson.version>1.2.25.sec10</fastjson.version>
         <httpclient.version>4.5.2</httpclient.version>
         <httpcomponents.version>4.5</httpcomponents.version>
         <mybatis.version>3.4.4</mybatis.version>
