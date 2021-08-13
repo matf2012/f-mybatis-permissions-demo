@@ -146,7 +146,7 @@
             <!--【退款结果通知】解密需要的依赖-->
             <groupId>org.bouncycastle</groupId>
             <artifactId>bcprov-jdk15on</artifactId>
-            <version>1.62</version>
+            <version>1.67</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.jasypt/jasypt -->
         <dependency>
