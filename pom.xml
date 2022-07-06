@@ -28,7 +28,7 @@
         <common.lang.version>2.6</common.lang.version>
         <beanutils.version>1.9.3</beanutils.version>
         <durid.version>1.1.17</durid.version>
-        <shiro.version>1.4.0</shiro.version>
+        <shiro.version>1.9.1</shiro.version>
     </properties>
 
     <dependencies>
